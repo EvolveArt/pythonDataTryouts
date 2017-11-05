@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def main():
-    print("a")
+    pass
 
 
 if __name__ == '__main__':
